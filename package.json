@@ -1,6 +1,6 @@
 {
   "name": "@pakerfeldt/node-red-contrib-adaptive-temperature",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adaptive Temperature Control Algorithm",
   "main": "index.js",
   "engines": {
