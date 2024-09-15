@@ -1,5 +1,5 @@
 {
-  "name": "@pakerfeldt/node-red-contrib-adaptive-temperature-control",
+  "name": "@pakerfeldt/node-red-contrib-adaptive-temperature",
   "version": "1.0.0",
   "description": "Adaptive Temperature Control Algorithm",
   "main": "index.js",
@@ -16,7 +16,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/pakerfeldt/node-red-contrib-adaptive-temperature-control/issues"
+    "url": "https://github.com/pakerfeldt/node-red-contrib-adaptive-temperature/issues"
   },
   "keywords": [
     "node-red",
